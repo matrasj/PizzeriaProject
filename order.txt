@@ -1,0 +1,34 @@
+
+Pizza: NORWAY, Quantity: 1, Income: 27.99
+
+Pizza: VEGAN, Quantity: 1, Income: 40.5
+
+Pizza: CAPRICIOSA, Quantity: 1, Income: 25.22
+
+Pizza: TORINO, Quantity: 1, Income: 30.99
+
+Pizza: MARGHERITA, Quantity: 1, Income: 20.42
+
+Pizza: GERMAN, Quantity: 1, Income: 27.12
+
+Total income: 172.24
+
+Data: 
+Name: Jakub
+Surname: Matras
+Phone number: Goscinczyk 1/22
+Particular address: +48 781 881 487
+Additional info: Please put hearth using ketchup
+============================================
+
+Pizza: CAPRICIOSA, Quantity: 2, Income: 50.44
+
+Total income: 50.44
+
+Data: 
+Name: rm
+Surname: wer
+Phone number: rgegrfsgffsdg
+Particular address: fg
+Additional info: dfh
+============================================
